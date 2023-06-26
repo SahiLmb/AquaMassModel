@@ -1,5 +1,6 @@
 # AquaMassModel
-ML Regression models used for predicting the weight of fish 
+ML Regression models used for predicting the weight of fish .
+
 Models used for regression analysis:
 #### Linear based models
 - Linear Regression
